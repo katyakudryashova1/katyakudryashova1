@@ -78,12 +78,15 @@
 <br>
 
 ## 🪴 Практика и стажировка
-<br>
+<br>  
 
+
+
+
+<br>
 ## 🎒 Образование
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/katyakudryashova1/katyakudryashova1/refs/heads/main/certificate.png)
 [<img src="/certificate(2).png" width="280px" hspace="10px" alt="Сертификат(2)»">](https://raw.githubusercontent.com/katyakudryashova1/katyakudryashova1/refs/heads/main/certificate%20(2).png)
-<br>
 <br>
 
 ## 🤝 Контакт
