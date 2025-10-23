@@ -1,5 +1,5 @@
 ## Приветствую 👋
-Меня зовут Катя, я QA Engineer👩🏻‍💻✨ Я здесь, чтобы делать мир ПО лучше, а заодно находить приключения на этапе тестирования!
+Меня зовут Катя, я QA Engineer👩🏻‍💻✨ Я здесь, чтобы делать мир ПО лучше, а заодно находить приключения на этапе тестирования:)
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=katyakudryashova1)
